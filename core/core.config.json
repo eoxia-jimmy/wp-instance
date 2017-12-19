@@ -1,0 +1,11 @@
+{
+	"name": "WP Instance Core",
+	"slug": "core",
+	"version": "0.1.0",
+	"description": "Boot WP Instance Core",
+	"path": "core/",
+	"dependencies": {
+		"action": {},
+		"class": {}
+	}
+}

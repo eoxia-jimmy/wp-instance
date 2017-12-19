@@ -1,0 +1,13 @@
+{
+	"name": "WP Instance",
+	"slug": "wp_instance",
+	"version": "0.1.0",
+	"description": "Allow to connect third party application to a WordPress",
+	"insert_scripts_pages_js": [],
+	"insert_scripts_pages_css": [],
+	"externals": [],
+	"modules": [
+		"core/core.config.json"
+	],
+	"debug": false
+}
