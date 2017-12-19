@@ -9,5 +9,6 @@
 	"modules": [
 		"core/core.config.json"
 	],
-	"debug": false
+	"debug": false,
+	"meta_wp_instance": "wp_instances"
 }
